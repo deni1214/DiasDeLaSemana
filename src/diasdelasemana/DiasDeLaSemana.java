@@ -43,10 +43,10 @@ class MeDia {
             
             System.out.println("Dia habil");
         
-        } else if(this.dia.equalsIgnoreCase("sabado") || this.dia.equalsIgnoreCase("domingo")){
+        } else if(this.dia.equalsIgnoreCase("Sabado") || this.dia.equalsIgnoreCase("Domingo")){
             System.out.println("Fin de semana");
         } else{
-                 System.out.println("Porfavor introduce un dia correcto");
+                 System.out.println("Introducior un dia correcto");
         } 
         
     }
